@@ -3,3 +3,7 @@
 nav img, nav .img-fluid {
     max-width: 150px;
   }
+
+  .card-img-top {
+ max-height: 180px;
+  }
